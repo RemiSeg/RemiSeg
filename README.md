@@ -93,7 +93,7 @@ Full-stack applicant-tracking and CV-matching proof of concept using **Spring Bo
   <a href="https://remiseguin.com">
     <img src="https://img.shields.io/badge/Website-remiseguin.com-000000?style=for-the-badge&logo=safari&logoColor=white">
   </a>
-  <a href="mailto:remi.seguin@hotmail.com">
+  <a href="mailto:remi.seguin@mail.mcgill.ca">
     <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
 </p>
