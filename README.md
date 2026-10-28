@@ -74,17 +74,12 @@ Full-stack applicant-tracking and CV-matching proof of concept using **Spring Bo
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!---<h2 align="center">📊 GitHub Stats</h2>
 
-<!--- 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=RemiSeg&show_icons=true&theme=transparent" />
-</p>
---->
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RemiSeg&layout=compact&theme=transparent" />
 </p>
-
+--->
 ---
 
 <h2 align="center">📫 Get in Touch</h2>
